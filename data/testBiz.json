@@ -1,0 +1,385 @@
+{ "_id" : { "$oid" : "518c3f6f41a302f1d2b744e7" }, "ratings" : [], "business_id" : "-7jsTZfNIx3Fy72Uc-AMSA", "average_stars" : 4 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d2b744e8" }, "ratings" : [], "business_id" : "-ZfUYXTphJdZuBTbfodP3Q", "average_stars" : 4 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d2b744e9" }, "ratings" : [ [ "JiPMk9WmbJu-VfTRAKpZpw", 4 ] ], "business_id" : "-i3pCgQi_Y9NiSSWs6G7bw", "average_stars" : -1 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d2b744ea" }, "ratings" : [], "business_id" : "-ilTnXu41RrxQITuolQhmQ", "average_stars" : 3 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d2b744eb" }, "ratings" : [ [ "1IzWxAfxuHTnzKOupUOB5Q", 4 ] ], "business_id" : "-tphABJRkegXV4Fr1ke4FQ", "average_stars" : -1 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d2b744ec" }, "ratings" : [], "business_id" : "0637qPnv_9upNsjTqA4aYg", "average_stars" : 4 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d2b744ed" }, "ratings" : [], "business_id" : "0neJ-fo4UDYJN5GAag3DEw", "average_stars" : 3 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d2b744ee" }, "ratings" : [ [ "_1-vheNMAWoAeBdykuZYZA", 5 ] ], "business_id" : "0tX2BR7qE-IP5Ne6vLwy3A", "average_stars" : -1 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d2b744ef" }, "ratings" : [], "business_id" : "0ttf8ZaXC_67Tv1Gx47WBQ", "average_stars" : 4 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d2b744f0" }, "ratings" : [], "business_id" : "15YzmE7eR42WLsKCoWtOTg", "average_stars" : 5 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d2b744f1" }, "ratings" : [ [ "bozvcy7kl2kJ2mBdKVxyUg", 4 ] ], "business_id" : "1UdClU8UuEvGmDVVCAfmFg", "average_stars" : -1 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d2b744f2" }, "ratings" : [ [ "5Fg-sXOm2Bj4f-Dsuk9mGw", 5 ] ], "business_id" : "1iY5q6spBS_DNWyemY829A", "average_stars" : -1 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d2b744f3" }, "ratings" : [ [ "mHWpVUBIABCQC1EpiMzfFw", 5 ] ], "business_id" : "1kPrd79TcUcXxhs1XL79Sg", "average_stars" : -1 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d2b744f4" }, "ratings" : [ [ "AmQHlSszkZkX_Ny27gnVHw", 3 ] ], "business_id" : "1paWSxJdcKTHfMG7yzv9oQ", "average_stars" : -1 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d2b744f5" }, "ratings" : [], "business_id" : "2KaY2WqWi9A7gVQUXSFRGQ", "average_stars" : 4 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d2b744f6" }, "ratings" : [ [ "udG2EZW-tXZpNKthkYUE4w", 1 ] ], "business_id" : "2MJzSgwVK_IgqJ9y3XpaKQ", "average_stars" : -1 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d2b744f7" }, "ratings" : [ [ "iiu3bqTQyXy2Eu-jzO0T2Q", 2 ] ], "business_id" : "2PWmnUV2Leb2Loj0TqxCMA", "average_stars" : -1 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d2b744f8" }, "ratings" : [], "business_id" : "2b6BvccVTtPwElQreRtFYw", "average_stars" : 3.5 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d2b744f9" }, "ratings" : [], "business_id" : "2fyzojctEFmSmJZNzI1g4g", "average_stars" : 2 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d2b744fa" }, "ratings" : [ [ "z9wdDJeytqVNh_TNBcOgDQ", 2 ] ], "business_id" : "2wu_RvBn3QYANniI6oD4pA", "average_stars" : -1 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d2b744fb" }, "ratings" : [ [ "mBBGHMLDDmtptNIu039RwA", 3 ] ], "business_id" : "2ych5tIo2EGGNfsswKEWRA", "average_stars" : -1 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d2b744fc" }, "ratings" : [], "business_id" : "3-A0nQLO5utUk9gwSwvcuA", "average_stars" : 2 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d2b744fd" }, "ratings" : [ [ "CxXUv86j_rxHoPxkXZMVdQ", 1 ] ], "business_id" : "3DtugUXX4WHOK2T34ZexXg", "average_stars" : -1 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d2b744fe" }, "ratings" : [ [ "8YtsIc_0L5Oj6I1pmoBRhw", 5 ] ], "business_id" : "3I2UzSJ9I3P24FJOiWVF6Q", "average_stars" : -1 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d2b744ff" }, "ratings" : [], "business_id" : "3ObFdIz5ZQA2E_flzVYDgw", "average_stars" : 5 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d2b74500" }, "ratings" : [], "business_id" : "3S1_y9oueDsvvZufCwptIQ", "average_stars" : 3 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d2b74501" }, "ratings" : [], "business_id" : "3WFnzu8D6S_T7guXZIOp7A", "average_stars" : 3.5 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d2b74502" }, "ratings" : [], "business_id" : "3k4K6l7SP7B4fzq9KpHy0A", "average_stars" : 3.5 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d2b74503" }, "ratings" : null }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d2b74504" }, "ratings" : [], "business_id" : "4L8sk1KU1tsHEVImKgGv8Q", "average_stars" : 5 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d2b74505" }, "ratings" : [], "business_id" : "4Mxc95eqsqvrMXJOSp51bw", "average_stars" : 2.5 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d2b74506" }, "ratings" : [ [ "XBNtqhc72X57VK8GLNbsGg", 4 ] ], "business_id" : "4dnYY1clI8Z3Oj2oLWVwag", "average_stars" : -1 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d2b74507" }, "ratings" : [ [ "T9hGHsbJW9Hw1cJAlIAWmw", 5 ] ], "business_id" : "4iTRjN_uAdAb7_YZDVHJdg", "average_stars" : -1 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d2b74508" }, "ratings" : [ [ "9wOGJKPXDy3PtDeqwm2jbQ", 5 ] ], "business_id" : "4y49CSzDlkZB7nkyViZuzg", "average_stars" : -1 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d2b74509" }, "ratings" : [], "business_id" : "50y29SCG_vhtZy4T75hjsg", "average_stars" : 4.5 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d2b7450a" }, "ratings" : null }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d2b7450b" }, "ratings" : [ [ "cqf8dqO5_QUxjfo6WiM7yg", 4 ] ], "business_id" : "56USR7ZY3Gsm4lR42yMQSg", "average_stars" : -1 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d2b7450c" }, "ratings" : [ [ "iJp3Wu-pYl7osiYqz1Gv7A", 4 ] ], "business_id" : "58oVEzvF6EnOmvVkXYFkTg", "average_stars" : -1 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d2b7450d" }, "ratings" : [ [ "467U9arC1I4bitEnRxpodw", 2 ] ], "business_id" : "5OJ2xEaVY04LCNA6MWg2lg", "average_stars" : -1 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d2b7450e" }, "ratings" : [ [ "ezJj-pxd6dWJ4C3MT3JTzQ", 1 ] ], "business_id" : "5QOE1BoQsRtmPDhcnXxXeA", "average_stars" : -1 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d2b7450f" }, "ratings" : [], "business_id" : "5lOX07_kaaJDKrJD56BFgw", "average_stars" : 4.5 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d2b74510" }, "ratings" : [ [ "0JZL7h8Du18RXpT7g3UYGQ", 4 ] ], "business_id" : "5plipnDkel1eW7_Rpm6E1w", "average_stars" : -1 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d2b74511" }, "ratings" : [ [ "YfqxJXDjyeoKksT-BMpUWA", 3 ] ], "business_id" : "5rTrfWtd1Isl0v8OK_iiCw", "average_stars" : -1 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d2b74512" }, "ratings" : [], "business_id" : "60f6JzTRhOyOggsjCfvh5Q", "average_stars" : 1.5 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d2b74513" }, "ratings" : [ [ "5zJb65C8iLUFVfkbRHmnUQ", 5 ] ], "business_id" : "65MiV69VtIsGI26wQNfs8w", "average_stars" : -1 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d2b74514" }, "ratings" : [ [ "h3hhB5s03e_CHUMvX9xIOQ", 5 ] ], "business_id" : "67pDG1UqmMYym-LqtDdnGw", "average_stars" : -1 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d2b74515" }, "ratings" : [ [ "6MKzaTWh6k9E5mznnuX14Q", 4 ] ], "business_id" : "6E4qfgHlGwm7eDQOtlcxaQ", "average_stars" : -1 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d2b74516" }, "ratings" : [ [ "2w-Wg6a7HzbWcEW5tZBAkw", 4 ] ], "business_id" : "6F1ahQt5t2JFmUQZ-n-zug", "average_stars" : -1 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d2b74517" }, "ratings" : [ [ "LU11HNyMzddDMQa3XZ9nMA", 4 ] ], "business_id" : "6ewV-e7-39oqYUq3yZuIyw", "average_stars" : -1 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d2b74518" }, "ratings" : [ [ "TM2Sa1ATH92VHB5tIqSAbQ", 4 ] ], "business_id" : "6fH20sLUGIYcaBAN-ZSieA", "average_stars" : -1 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d2b74519" }, "ratings" : [ [ "ruKI02UFEyBcvow5DXoGRQ", 4 ] ], "business_id" : "6otX06BtZ5uOvTM7_VjF3A", "average_stars" : -1 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d2b7451a" }, "ratings" : [], "business_id" : "75iVE77Z3w_SJbERaLBhbQ", "average_stars" : 5 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d2b7451b" }, "ratings" : [], "business_id" : "7AlULGZI1pHt0imODsqdkg", "average_stars" : 4.5 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d2b7451c" }, "ratings" : [], "business_id" : "7sBIv30fhszkBsv0kkSBCg", "average_stars" : 3 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d2b7451d" }, "ratings" : null }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d2b7451e" }, "ratings" : [ [ "ZdZcoE-CNqCMM-GUnRx4Lw", 5 ] ], "business_id" : "81IjU5L-t-QQwsE38C63hQ", "average_stars" : -1 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d2b7451f" }, "ratings" : [ [ "AB8wsInuxvGArkg-83zIow", 4 ] ], "business_id" : "83vp-VLzGCBGyQ3_XOg7Yw", "average_stars" : -1 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d2b74520" }, "ratings" : [], "business_id" : "8Q5YPzkOmfVIvZeldC9o4Q", "average_stars" : 1 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d2b74521" }, "ratings" : [], "business_id" : "8SqxzaPVVBTIxrbJKZwDxg", "average_stars" : 4 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d2b74522" }, "ratings" : [ [ "cGXXVRS9Jttjw3p-BRfz-Q", 4 ] ], "business_id" : "8V1ceChgSzcGUV6jC8CvyQ", "average_stars" : -1 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d2b74523" }, "ratings" : [], "business_id" : "8fOGgn8aNrJmAObOd7nxmg", "average_stars" : 2.5 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d2b74524" }, "ratings" : [], "business_id" : "8lLs3dsSN-Am2_EtNfbXqA", "average_stars" : 3.5 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d2b74525" }, "ratings" : [ [ "ow8CEqA-vUdikSuJxiZkSQ", 4 ] ], "business_id" : "8polKN4I6fJx1t8pPxogVw", "average_stars" : -1 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d2b74526" }, "ratings" : [], "business_id" : "8q_fyg8fkMeVx69jDhJ7jw", "average_stars" : 4 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d2b74527" }, "ratings" : [ [ "Jtfz1WbIB_FtYDkO3MtRXg", 3 ] ], "business_id" : "8sGKlCVtewMuA2RGyfatyg", "average_stars" : -1 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d2b74528" }, "ratings" : [ [ "k6VEe4G7dXWhooqFIQcoRQ", 4 ] ], "business_id" : "8uz_6_ogNrpb_MxQnhjZGQ", "average_stars" : -1 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d2b74529" }, "ratings" : [ [ "yEye1xykZ39VEKrkDiUfyA", 4 ] ], "business_id" : "90p9ce512bqmIhORTw0Rfg", "average_stars" : -1 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d2b7452a" }, "ratings" : [], "business_id" : "92rpAUG_KI8lndU5obe1Uw", "average_stars" : 3 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d2b7452b" }, "ratings" : null }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d2b7452c" }, "ratings" : [ [ "_BcWyKQL16ndpBdggh2kNA", 2 ] ], "business_id" : "9bbwPNPYXqP83reSK-hASg", "average_stars" : -1 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d2b7452d" }, "ratings" : [], "business_id" : "9j6aqUdpPojPFkb265ep3w", "average_stars" : 5 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d2b7452e" }, "ratings" : [], "business_id" : "9m5s_UB5SZCz56hrONB43Q", "average_stars" : 4 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d2b7452f" }, "ratings" : [ [ "liUswjFJfpQWg9LPAKjZbg", 5 ] ], "business_id" : "9nIZxuuFBwg9XbMjO8bXsA", "average_stars" : -1 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d2b74530" }, "ratings" : [], "business_id" : "9oKaebSlAZPDhniHdkZTSQ", "average_stars" : 2 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d2b74531" }, "ratings" : [ [ "L-uTr-KS8Jq6lgv58yZU4g", 3 ] ], "business_id" : "9znPyzc0cS8GHH49R8SUaA", "average_stars" : -1 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d2b74532" }, "ratings" : [ [ "qVEmas6gFaOoRLAhLIyJmw", 4 ] ], "business_id" : "AKfHinPZ5vdPdHRzpvSWtw", "average_stars" : -1 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d2b74533" }, "ratings" : [], "business_id" : "AYuAIf2KkIUF8HaMyorwzQ", "average_stars" : 4 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d2b74534" }, "ratings" : [], "business_id" : "A_Fm4v2-gQuGBBI-GBx4Uw", "average_stars" : 4 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d2b74535" }, "ratings" : null }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d2b74536" }, "ratings" : [], "business_id" : "B4XBd2EsP49XSThU4Cvmrg", "average_stars" : 2.5 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d2b74537" }, "ratings" : [], "business_id" : "BJKIoQa5N2T_oDlLVf467Q", "average_stars" : 3 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d2b74538" }, "ratings" : [ [ "QJW33YrUGp-wVMI8M5mObg", 5 ] ], "business_id" : "BJsVuk2sK7bE7vqCVxLgKQ", "average_stars" : -1 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d2b74539" }, "ratings" : [ [ "sQ0j1SpXo-l6DCS00jelXA", 3 ] ], "business_id" : "BKI9lC-Mn2W7TtjEInsaLA", "average_stars" : -1 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d2b7453a" }, "ratings" : [ [ "C7AngbgK1l4oaK3A6_ylfQ", 3 ] ], "business_id" : "BXNa3b28Lm8zUXXhMUtSig", "average_stars" : -1 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d2b7453b" }, "ratings" : [ [ "OEFwXYlkHFTsVXHzKCuEOA", 5 ] ], "business_id" : "BZ90gSrU0PdZTpGBaXYMUg", "average_stars" : -1 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d2b7453c" }, "ratings" : [], "business_id" : "C8Y9hSU5VjQLNH9rRGKJLQ", "average_stars" : 4 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d2b7453d" }, "ratings" : [], "business_id" : "CGQaOhJEQAbvdIE67CHr1Q", "average_stars" : 4 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d2b7453e" }, "ratings" : [], "business_id" : "Cd_JVOq_cBueqB9q3X0rkQ", "average_stars" : 4 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d2b7453f" }, "ratings" : null }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d2b74540" }, "ratings" : [], "business_id" : "CrjZoiaRdFivE1esbkQ7sw", "average_stars" : 4 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d2b74541" }, "ratings" : [ [ "nWorAW2BU45KlJ5n1DA5QQ", 1 ] ], "business_id" : "CvgqLb-fHhv2MTPb__Ioog", "average_stars" : -1 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d2b74542" }, "ratings" : [], "business_id" : "CxYMVhOnWQuYaVv7wTAiAg", "average_stars" : 5 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d2b74543" }, "ratings" : [], "business_id" : "CyUfjTpoIgNghGlqfz9aEw", "average_stars" : 4 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d2b74544" }, "ratings" : [ [ "MagxJTKjcIx-XkqewnsTJQ", 5 ] ], "business_id" : "D-eKRUJMr-5xAyZbeDDNuw", "average_stars" : -1 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d2b74545" }, "ratings" : [], "business_id" : "D1NESoG1U9hVG52h7JDu0A", "average_stars" : 3 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d2b74546" }, "ratings" : [], "business_id" : "DARh6yjrGGVZ7R3Gdh4CMA", "average_stars" : 3.5 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d2b74547" }, "ratings" : [ [ "Vd5ZQKvhdXS3WgECV78_hQ", 2 ] ], "business_id" : "DCk27lbp82tOEPSNCvF4lQ", "average_stars" : -1 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d2b74548" }, "ratings" : [], "business_id" : "DFjkBf-0JvCNwh8aaYd1-g", "average_stars" : 5 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d2b74549" }, "ratings" : [], "business_id" : "DN9QCQigMZSSeH9yO4r6bg", "average_stars" : 1.5 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d2b7454a" }, "ratings" : [], "business_id" : "Dbph47k1l-u8G5n04JuXBg", "average_stars" : 5 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d2b7454b" }, "ratings" : [ [ "5QVSMS-vV4jOgDLLPV75Mw", 3 ] ], "business_id" : "E4d4Qc5ds7GHcfoMeoBWvQ", "average_stars" : -1 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d2b7454c" }, "ratings" : [], "business_id" : "E4gLWrcaO9GGhWq3cknKzg", "average_stars" : 5 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d2b7454d" }, "ratings" : [ [ "aEGy13uGCMQVf00QZYn1Vw", 3 ] ], "business_id" : "EAYBdA_ZWXcHmH9rYtIdHg", "average_stars" : -1 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d2b7454e" }, "ratings" : [], "business_id" : "EAcuimBT8oua2XKLC0UpLA", "average_stars" : 4 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d2b7454f" }, "ratings" : [ [ "U7TqaIqpSSPf789AXNSFDQ", 5 ] ], "business_id" : "EBOjFAIADKEMoghHK21b3A", "average_stars" : -1 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d2b74550" }, "ratings" : [], "business_id" : "EHMx2IhI-_ooHQo0N-AnHA", "average_stars" : 3 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d2b74551" }, "ratings" : [ [ "2PhBFRUiNiXdmkYoKf8brA", 5 ] ], "business_id" : "EiNbPFyAdHB4YGQGjygj4w", "average_stars" : -1 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d2b74552" }, "ratings" : [], "business_id" : "EjgQxDOUS-GFLsNxoEFJJg", "average_stars" : 3.5 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d2b74553" }, "ratings" : [ [ "_60Av7O_721wdoOzR7hgDw", 5 ] ], "business_id" : "Ekd4p4JmygAgzoaR4jFMJQ", "average_stars" : -1 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d2b74554" }, "ratings" : [ [ "Qx5bz4luino7htScnjwsMA", 2 ] ], "business_id" : "EmZ9_DdX3ClgM9hNqbqo_w", "average_stars" : -1 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d2b74555" }, "ratings" : [], "business_id" : "ErMFay-6o83QB2P1k4ALAg", "average_stars" : 3.5 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d2b74556" }, "ratings" : [ [ "2ZCSvamNDmeGuHOD2pau-w", 5 ] ], "business_id" : "F5PedvOlohWFT_bic8MHdA", "average_stars" : -1 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d2b74557" }, "ratings" : [], "business_id" : "FTdSPMbBw11SFswvFPgJ5Q", "average_stars" : 2.5 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d2b74558" }, "ratings" : [ [ "tiGNZiM_PoS6qtas9OOXTg", 3 ] ], "business_id" : "FXpHCkccct8SJjN9r1BvPw", "average_stars" : -1 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d2b74559" }, "ratings" : [], "business_id" : "FfhOTfIUtMpMTj26EqQg8Q", "average_stars" : 4 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d2b7455a" }, "ratings" : [ [ "22oxX_SY3fpAXljL0MKXIg", 3 ] ], "business_id" : "FqQi-ExFm5xR9uNYhBIqNw", "average_stars" : -1 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d2b7455b" }, "ratings" : [], "business_id" : "FzVANX7N-FQbUZNfKhFJSg", "average_stars" : 3.5 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d2b7455c" }, "ratings" : [], "business_id" : "G3-STn8vhQXsPObIqlBGPw", "average_stars" : 2.5 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d2b7455d" }, "ratings" : [ [ "P7RVQkM0vvx68A43HD8goQ", 5 ] ], "business_id" : "GLP0_Rs2y4Q0Gxk7r1dddQ", "average_stars" : -1 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d2b7455e" }, "ratings" : [ [ "Jw4OHr6HibJeEIMfAxc1_Q", 4 ] ], "business_id" : "GTYA7fQK71WN9NU6ro0WmA", "average_stars" : -1 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d2b7455f" }, "ratings" : [ [ "XXsKHHyzJWW5KWw63lug-w", 4 ] ], "business_id" : "GUoVncYpFzfxt2HJZFBqDw", "average_stars" : -1 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d2b74560" }, "ratings" : [], "business_id" : "GXcX7pE3hNQoKqANf2im0A", "average_stars" : 1 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d2b74561" }, "ratings" : [], "business_id" : "GZOJJ32d6E1M-IZ0TtZ8gw", "average_stars" : 3.5 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d2b74562" }, "ratings" : [ [ "3fWt-MkapkFAkf3a6_g0Dw", 2 ] ], "business_id" : "GqqBWV8ysYB48_jLPMl2bA", "average_stars" : -1 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d2b74563" }, "ratings" : [ [ "SeAJ5cxg3PSpbGq66rTHfw", 5 ] ], "business_id" : "H92b_Ikez92uf7CQ-pjoXQ", "average_stars" : -1 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d2b74564" }, "ratings" : [], "business_id" : "HIPGr2gSEN4T73tjz47hpw", "average_stars" : 3.5 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d2b74565" }, "ratings" : [], "business_id" : "HPWmjuivv3xJ279qSVfNaQ", "average_stars" : 3.5 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d2b74566" }, "ratings" : [ [ "4WV6dz3WkUTkjzePH2-VCg", 5 ] ], "business_id" : "HW501zexRpDLIYJ2dHWZ0g", "average_stars" : -1 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d2b74567" }, "ratings" : [ [ "JhFK9D3LYl23Se3x4oPUxA", 4 ] ], "business_id" : "HYHdE4sJ4BYa0xlmO0PZ6A", "average_stars" : -1 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d2b74568" }, "ratings" : [], "business_id" : "HYzPCEgsLDtgJ9vQtERdxA", "average_stars" : 1 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d2b74569" }, "ratings" : [ [ "gdaBRN2Kv3RKXvaY7DlAdA", 3 ] ], "business_id" : "HffgoaAdup4MuPjqGZbycg", "average_stars" : -1 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d2b7456a" }, "ratings" : [ [ "fs5bpfk-2pvq2v8S1De5pQ", 2 ] ], "business_id" : "Hnz1_h_D1eHSRtQqHSCZkw", "average_stars" : -1 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d2b7456b" }, "ratings" : [], "business_id" : "HoLltXQfn_vK-LS4VP3wCw", "average_stars" : 3.5 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d2b7456c" }, "ratings" : [], "business_id" : "Hp3hFrjuu4nHz5sNkgbZbA", "average_stars" : 2.5 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d2b7456d" }, "ratings" : [], "business_id" : "Hy2JzrPyqqHk7ed2g-zWbg", "average_stars" : 2.5 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d2b7456e" }, "ratings" : [ [ "yNvhn19UIJDB-E0I_81dnA", 5 ] ], "business_id" : "Hz1F5uruPe1kCsf5PIA6Sg", "average_stars" : -1 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d2b7456f" }, "ratings" : [], "business_id" : "I3Mzzi5jLiy56ameiG-FIg", "average_stars" : 3.5 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d2b74570" }, "ratings" : [ [ "XbN5C8a7sgGHqbF2zmcw3g", 3 ] ], "business_id" : "IIYFOk2akgmghxQI84SxKQ", "average_stars" : -1 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d2b74571" }, "ratings" : [ [ "uSsfPYzM1kQ4soAr3FMzcw", 4 ] ], "business_id" : "INaAXfbIXtXTB3sSDX8Wow", "average_stars" : -1 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d2b74572" }, "ratings" : [], "business_id" : "IQpohksufCBmGJYZCsZf7g", "average_stars" : 4.5 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d2b74573" }, "ratings" : [], "business_id" : "IU9j37tFH_Dg_8rLkuqDSQ", "average_stars" : 4 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d2b74574" }, "ratings" : [], "business_id" : "IVenYICiQs5nv9cZkqCD5w", "average_stars" : 2 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d2b74575" }, "ratings" : [], "business_id" : "IdKD1fNtf80lhyP5Ldr_rw", "average_stars" : 2.5 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d2b74576" }, "ratings" : [ [ "VvUwkeVYvqJUrfoiw99-xQ", 4 ] ], "business_id" : "Il2csF4ZapaWAkQlFSyPTg", "average_stars" : -1 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d2b74577" }, "ratings" : [], "business_id" : "Iu-oeVzv8ZgP18NIB0UMqg", "average_stars" : 3.5 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d2b74578" }, "ratings" : [], "business_id" : "IxopnFY3N31qMErNHaRTGg", "average_stars" : 4 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d2b74579" }, "ratings" : [], "business_id" : "J2r4vJgdOJiDvUdQFSS9qQ", "average_stars" : 3.5 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d2b7457a" }, "ratings" : [ [ "oyS7ybgdMpynYgzea8R1zw", 2 ] ], "business_id" : "JT-A1F67iKRf5ifGL8ry6A", "average_stars" : -1 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d2b7457b" }, "ratings" : [], "business_id" : "JY576sTpB3ljay2IAajZ2w", "average_stars" : 4 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d2b7457c" }, "ratings" : null }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d2b7457d" }, "ratings" : [ [ "NxpfS5EYb1OT4cceTokwqg", 3 ] ], "business_id" : "JrGSfjRqAtIZjjwC3FFQ4w", "average_stars" : -1 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d2b7457e" }, "ratings" : [], "business_id" : "K6AKMjAdCSe8xllsbyeL9Q", "average_stars" : 4 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d2b7457f" }, "ratings" : [ [ "Jd-ccxgw6bPWZMpiNNGijQ", 3 ] ], "business_id" : "KFZNgF44I7SoMi-B4p9oAQ", "average_stars" : -1 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d2b74580" }, "ratings" : [ [ "fMuzK-hXg63eIXFn2GrXAA", 1 ] ], "business_id" : "KZYNSm2nk8SJApyqMUBPSw", "average_stars" : -1 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d2b74581" }, "ratings" : [ [ "2RKfUSVZBeTJ-_X9bmGmKQ", 4 ] ], "business_id" : "KpUOz5tuL-lPrusZhh17rg", "average_stars" : -1 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d2b74582" }, "ratings" : [], "business_id" : "L5ABFgTmN-T-uZjuGpoi3Q", "average_stars" : 5 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d2b74583" }, "ratings" : [ [ "f1-Ds0X2Gb-acICN_oXVgw", 4 ] ], "business_id" : "LJuHxobQsa7lW0c1wttY2A", "average_stars" : -1 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d2b74584" }, "ratings" : [ [ "aJs39GPXKVfgX5r-Yv_dHQ", 4 ] ], "business_id" : "LP529kzCViIWtZFXA_BZ-g", "average_stars" : -1 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d2b74585" }, "ratings" : [ [ "tR8UZ7v0aHHf6gU7KET7tw", 2 ] ], "business_id" : "LWd8Jv6PZNkW-4VVY7ZHYw", "average_stars" : -1 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d2b74586" }, "ratings" : [], "business_id" : "LaW34gZqLnWjiWF8pl-tvg", "average_stars" : 4.5 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d2b74587" }, "ratings" : [ [ "W98P_BkvdYLZ_Ro5-jdbmg", 2 ] ], "business_id" : "Lc3adfTA07uPdk2IrLalxQ", "average_stars" : -1 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d2b74588" }, "ratings" : [], "business_id" : "Lp32rSc3OATt1P0Upa4Jxg", "average_stars" : 3.5 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d2b74589" }, "ratings" : [], "business_id" : "M1pXCGikSigFib_ZZzKMnA", "average_stars" : 5 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d2b7458a" }, "ratings" : [ [ "x5JyTA3gsFNqsIVFMW5yaw", 5 ] ], "business_id" : "M487o17d25K9Jnrf-bKFQQ", "average_stars" : -1 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d2b7458b" }, "ratings" : [ [ "3x8lZ-EoBhg-mw21BRITuQ", 4 ] ], "business_id" : "MAaCTnK9eiDUjwUGUTLaMA", "average_stars" : -1 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d2b7458c" }, "ratings" : [], "business_id" : "MXWSVpWoHq0-29bLt-j9qA", "average_stars" : 3 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d2b7458d" }, "ratings" : [], "business_id" : "Mg1CS5aRT_eV4qaGpEvnIQ", "average_stars" : 3 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d2b7458e" }, "ratings" : [], "business_id" : "MnThD5q-m9oLigW5SoWMJQ", "average_stars" : 3.5 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d2b7458f" }, "ratings" : [], "business_id" : "MuTJSKkzF_fmK-eG8RoZSA", "average_stars" : 3.5 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d2b74590" }, "ratings" : [], "business_id" : "N-urZV7AHwkI2oavPqJDtQ", "average_stars" : 3.5 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d2b74591" }, "ratings" : [], "business_id" : "NZ3A0xYdnmIG68mZeZV6AA", "average_stars" : 4 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d2b74592" }, "ratings" : [ [ "aDJhHHV2At6NKgKqwX8BXQ", 4 ] ], "business_id" : "O6U58f5g16gG1ST7Yg24BA", "average_stars" : -1 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d2b74593" }, "ratings" : [], "business_id" : "OH0LxbsALqY9vk5dMKCZ3g", "average_stars" : 4 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d2b74594" }, "ratings" : [], "business_id" : "OdopTmxrlxldE4UINKVhFw", "average_stars" : 4.5 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d2b74595" }, "ratings" : [], "business_id" : "PBqjmOB7Yjti3cFqy8-Ctw", "average_stars" : 3.5 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d2b74596" }, "ratings" : [ [ "0LwN37IQHOPTSpVTmG1eKQ", 4 ] ], "business_id" : "PC-x4Om-XXGqFn0ludTykw", "average_stars" : -1 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d2b74597" }, "ratings" : [ [ "e77JyltArqckcdBl13bVbA", 5 ] ], "business_id" : "PFppNi9rZWAw5f8e5J41MQ", "average_stars" : -1 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d2b74598" }, "ratings" : [ [ "3H-0jlpKYYHyaTFbW-z6Bw", 5 ] ], "business_id" : "PTtP9zS6h7ZYb3zmc1aHcA", "average_stars" : -1 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d2b74599" }, "ratings" : [ [ "s_zyJRtvKbnsCMnHHyo4bg", 4 ] ], "business_id" : "PUyZcKYvrNZLzgRfM9evRg", "average_stars" : -1 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d2b7459a" }, "ratings" : [], "business_id" : "P_7A5Ztw4Pwizpdqfx-G-Q", "average_stars" : 3 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d2b7459b" }, "ratings" : [], "business_id" : "Pb0vN4yPgwXn2TOS1ptjjg", "average_stars" : 2.5 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d2b7459c" }, "ratings" : [ [ "8BepMx3ExiLBhNn1Fj88aA", 5 ] ], "business_id" : "Pe7u7DJfR7Ou2D9iMwEG4A", "average_stars" : -1 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d2b7459d" }, "ratings" : [], "business_id" : "PyIJ8OEfltYaHWJaIwUF2Q", "average_stars" : 2.5 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d2b7459e" }, "ratings" : [], "business_id" : "Q-aST5Z92-l8yq_NkbX7aQ", "average_stars" : 5 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d2b7459f" }, "ratings" : [ [ "bkIgi_PJyr6-2doVwu_ojw", 4 ] ], "business_id" : "Q0t7EEaygJ2hb4uFn79owQ", "average_stars" : -1 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d2b745a0" }, "ratings" : [], "business_id" : "Q396im01LW4sgl2xNC3Fpg", "average_stars" : 4.5 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d2b745a1" }, "ratings" : [], "business_id" : "QYOtmUPz0eTkV2sLuRHPvg", "average_stars" : 4 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d2b745a2" }, "ratings" : [], "business_id" : "QbmyoM98Wfl015RQ8JK1qA", "average_stars" : 4 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d2b745a3" }, "ratings" : [ [ "MZ6ytoc9Jp2zIG614EwwsQ", 4 ] ], "business_id" : "QbtNPawuMu7UIfRAfhGJpA", "average_stars" : -1 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d2b745a4" }, "ratings" : [ [ "hQ0aQ-EdeshMwkhXKPlK5w", 3 ] ], "business_id" : "QfpwAp53h_DIfzph0IMIbQ", "average_stars" : -1 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d2b745a5" }, "ratings" : [], "business_id" : "QhAPtrNAliEQG-kFH9stCg", "average_stars" : 4.5 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d2b745a6" }, "ratings" : [ [ "pH6nG6ZbR0NyYPAjCehNaw", 3 ] ], "business_id" : "Qq5Pb6vtGmPQlGIU5UO30Q", "average_stars" : -1 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d3f825a2" }, "ratings" : [], "business_id" : "R--rV0fSLevjMwxIH6DEBQ", "average_stars" : 2.5 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d3f825a3" }, "ratings" : [ [ "FObOePkrio-0djGwdq6JUA", 3 ] ], "business_id" : "R2-_hZIboGriSatS2kn7rw", "average_stars" : -1 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d3f825a4" }, "ratings" : [], "business_id" : "RU7bd3h2f6pBlf8BfAyxGQ", "average_stars" : 5 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d3f825a5" }, "ratings" : [ [ "Y5oH9VlzH0IfhCQ3SSESoQ", 4 ] ], "business_id" : "RiZqeuLN-3y04yh4c20Y0A", "average_stars" : -1 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d3f825a6" }, "ratings" : [ [ "qdhuRLyF7eOFB65AaDFDvw", 4 ] ], "business_id" : "RvbN7Zv_W7zHjDh5F0B8Ag", "average_stars" : -1 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d3f825a7" }, "ratings" : [], "business_id" : "Ryt1Fhgz7sixMQSJiLyP_g", "average_stars" : 3 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d3f825a8" }, "ratings" : [], "business_id" : "SGlowZEhllX_NqwQIpIzaQ", "average_stars" : 3 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d3f825a9" }, "ratings" : [], "business_id" : "SHflj5Ie7-BeC6aSQFJc9Q", "average_stars" : 4 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d3f825aa" }, "ratings" : [ [ "vqxYIRDvxq_u3alt2Y6MRg", 5 ] ], "business_id" : "SijUAKpEjanhVghyhr46XQ", "average_stars" : -1 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d3f825ab" }, "ratings" : [ [ "WPSFwQAeruRQ6Q4ogCxOSA", 5 ] ], "business_id" : "SpAVSLNN6B-4DjJ2ljMDrg", "average_stars" : -1 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d3f825ac" }, "ratings" : [], "business_id" : "Syiv-lUfj0iScV4Aw9yWaA", "average_stars" : 5 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d3f825ad" }, "ratings" : [], "business_id" : "T1ugJiVm210G_4QvmQCz1g", "average_stars" : 4 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d3f825ae" }, "ratings" : [], "business_id" : "T6YKL1wsPRfRhvseX9uNyQ", "average_stars" : 5 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d3f825af" }, "ratings" : null }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d3f825b0" }, "ratings" : [ [ "J7ngOkDXqxaiigZTkRUEBA", 2 ] ], "business_id" : "THJN6kVcPUD2T04TrcmZng", "average_stars" : -1 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d3f825b1" }, "ratings" : [], "business_id" : "TU2HIXtJ1ChIf2J4whGEyw", "average_stars" : 3.5 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d3f825b2" }, "ratings" : [], "business_id" : "U-S4SIklb8vc4fLkoVPTCA", "average_stars" : 3 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d3f825b3" }, "ratings" : [], "business_id" : "UJw-KnIdnzwbvxzNvIUhgw", "average_stars" : 3 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d3f825b4" }, "ratings" : [], "business_id" : "UR9H6ZcjMjGhJmmITypI2A", "average_stars" : 3.5 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d3f825b5" }, "ratings" : null }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d3f825b6" }, "ratings" : [ [ "WUOtKr32jNtnH_2PjIM7hg", 2 ] ], "business_id" : "Up7igNfawB1T25o7DTdfWA", "average_stars" : -1 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d3f825b7" }, "ratings" : [], "business_id" : "UqxMeWY3k8_TYGucik-OKA", "average_stars" : 4 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d3f825b8" }, "ratings" : [], "business_id" : "V2iy6yakrK_AntVK8R7bEA", "average_stars" : 4 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d3f825b9" }, "ratings" : [ [ "2dRpOQr0RwPFUnH0M1NiHw", 1 ] ], "business_id" : "V3QLsPZW-0WrvSjYNk6zdA", "average_stars" : -1 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d3f825ba" }, "ratings" : [ [ "-uQcgLHrjba2hV14h-h6tg", 3 ] ], "business_id" : "V9DXseGJNzLeCxUpMZuUnw", "average_stars" : -1 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d3f825bb" }, "ratings" : [], "business_id" : "VE4Vi52enwiPz8SCCSHBxA", "average_stars" : 4.5 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d3f825bc" }, "ratings" : null }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d3f825bd" }, "ratings" : [ [ "6rN43dkPOr-sqXkZii5DXw", 5 ] ], "business_id" : "Vch7PfJ7QBNQ7fe162ZZLQ", "average_stars" : -1 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d3f825be" }, "ratings" : [ [ "K2GXS6XJyXu01FC6_FKmNg", 4 ] ], "business_id" : "VjPL-sjGh1fwn9VA6ooAkA", "average_stars" : -1 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d3f825bf" }, "ratings" : [ [ "ioYilg--IaipOZ9_Ip2_ZQ", 5 ] ], "business_id" : "VlzeNUSkepYtIgYCkrqRbg", "average_stars" : -1 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d3f825c0" }, "ratings" : [ [ "89dX_yDmaRKVz_xrRIvNzA", 4 ] ], "business_id" : "Vt5-66bdIFny9aZKz-I0bw", "average_stars" : -1 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d3f825c1" }, "ratings" : [], "business_id" : "W-RJfufcf-GtIPrdyrJ6pQ", "average_stars" : 2 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d3f825c2" }, "ratings" : [], "business_id" : "WC6y30BJZ8CLjJXDL_jaKg", "average_stars" : 4 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d3f825c3" }, "ratings" : [], "business_id" : "WDxidvOxya-tGcJldNZElg", "average_stars" : 3 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d3f825c4" }, "ratings" : [ [ "MGbfqQrNN5E9CjibrANToQ", 1 ] ], "business_id" : "WFM3IOVIo8aOv6ubROXWAA", "average_stars" : -1 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d3f825c5" }, "ratings" : [ [ "1NlpqFXWaTeLOCNNLSpS-g", 4 ] ], "business_id" : "WoietoT-A6xNE3_ATwHilw", "average_stars" : -1 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d3f825c6" }, "ratings" : [], "business_id" : "X9Hna0jBuwkFi-PoTl1w6A", "average_stars" : 4.5 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d3f825c7" }, "ratings" : [], "business_id" : "X9OB8N7ZlmMlncHzeO_pmg", "average_stars" : 3 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d3f825c8" }, "ratings" : [ [ "o95OqAUEOUpwYYUs5OHhQA", 4 ] ], "business_id" : "XIdmWw-OMx5nhpuTSdxYlQ", "average_stars" : -1 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d3f825c9" }, "ratings" : [ [ "7U7MI0-KyE8QY4ov1lfsYw", 2 ] ], "business_id" : "XRMlDR9xjIHE6RVzP3HctQ", "average_stars" : -1 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d3f825ca" }, "ratings" : [], "business_id" : "X_1PaKwj4GhqwZ9Fi22WRA", "average_stars" : 4.5 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d3f825cb" }, "ratings" : [], "business_id" : "XdZMqJbl-oWA_x0F_q5I_A", "average_stars" : 4.5 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d3f825cc" }, "ratings" : [], "business_id" : "XrqownLHKAzfQwJl-spFeQ", "average_stars" : 4 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d3f825cd" }, "ratings" : [ [ "NOSX_lFBzce4z38j6D_0Pw", 3 ] ], "business_id" : "XyCYPxeZd54UWgIFXsjtgw", "average_stars" : -1 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d3f825ce" }, "ratings" : [ [ "5TuXsBTtVN4ci8wHiG4Ebg", 4 ] ], "business_id" : "Y7ehe7zpS4zf8SjOltf9sw", "average_stars" : -1 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d3f825cf" }, "ratings" : [], "business_id" : "Y8C2FuA0Aiy7uMgXXa3HUg", "average_stars" : 4.5 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d3f825d0" }, "ratings" : [ [ "EldCtRoQLpKq12_qRSY0GQ", 5 ] ], "business_id" : "YMeWjOd1svHDGdDCKoiGgg", "average_stars" : -1 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d3f825d1" }, "ratings" : [ [ "wtAm7dUJpmncjgBVh2qlNw", 3 ] ], "business_id" : "YWSsD10TzzqE1htRG9fQKw", "average_stars" : -1 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d3f825d2" }, "ratings" : [ [ "A1D0quQaZ1k6YtjmV9tvRA", 2 ] ], "business_id" : "Yk3KzKmdNRxSdhsc2Hsmpg", "average_stars" : -1 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d3f825d3" }, "ratings" : [ [ "MAdyEzyOImq-RgpdMa3pEg", 5 ] ], "business_id" : "YuRAhKAykFl6HE_nw3fYZA", "average_stars" : -1 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d3f825d4" }, "ratings" : [ [ "wruLzteKIsCvekKUZl2EPg", 3 ] ], "business_id" : "YzNr5QN_t2tbxitwcuu8EA", "average_stars" : -1 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d3f825d5" }, "ratings" : [], "business_id" : "ZKcVHVlD-kwmXFlnPzxpMg", "average_stars" : 3.5 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d3f825d6" }, "ratings" : [], "business_id" : "ZNJKyj1eGFWT3nSBLdTaLA", "average_stars" : 4.5 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d3f825d7" }, "ratings" : null }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d3f825d8" }, "ratings" : [], "business_id" : "Zb22gjD3m_MwFRB6Ay-QOw", "average_stars" : 3.5 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d3f825d9" }, "ratings" : [], "business_id" : "Zc3hqSZHkuELzpyRmv6nrQ", "average_stars" : 3 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d3f825da" }, "ratings" : [], "business_id" : "ZiMpqxXKyiN-zsOqp9Vllw", "average_stars" : 4.5 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d3f825db" }, "ratings" : [ [ "0OG7QJw9fDRdh3jsoesSHQ", 4 ] ], "business_id" : "_--ScmaNumIoT2gQanACvg", "average_stars" : -1 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d3f825dc" }, "ratings" : [], "business_id" : "_A4YqG4TqZvCjBUNK-sSxw", "average_stars" : 3.5 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d3f825dd" }, "ratings" : [], "business_id" : "_VVitWVj4AvzqV91O6c1Mw", "average_stars" : 4 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d3f825de" }, "ratings" : [], "business_id" : "__PHRVOgyR-WgkKPHwnvoA", "average_stars" : 4 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d3f825df" }, "ratings" : [ [ "NH_djFwSk1xNO_s37YtVMQ", 5 ] ], "business_id" : "_dYPKrg3u0PbiH4K9wJ-DA", "average_stars" : -1 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d3f825e0" }, "ratings" : [ [ "YbTGlQg9Eb-bB93S8HWWNw", 5 ] ], "business_id" : "_rlU6AQD8jJJb7iCiHrRdg", "average_stars" : -1 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d3f825e1" }, "ratings" : [ [ "96ZCAjP-Enu3Na-GaeoaTw", 1 ] ], "business_id" : "aHtRqwCT2KUP-hPmKjaCrA", "average_stars" : -1 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d3f825e2" }, "ratings" : [ [ "fHTuhS7zJL_ZCpssznMXlw", 3 ] ], "business_id" : "aIScXq8tMcjR8Rkmi8qmdw", "average_stars" : -1 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d3f825e3" }, "ratings" : [], "business_id" : "aIYUBP7zfZ2t0mnx6o62vg", "average_stars" : 5 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d3f825e4" }, "ratings" : [], "business_id" : "aIlV9fry1fEYsybM_4K5rQ", "average_stars" : 4.5 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d3f825e5" }, "ratings" : [ [ "D5p8NrPzwHH5YBh7q9kdxA", 3 ] ], "business_id" : "aT29o37bfRLKb73coM7Iqg", "average_stars" : -1 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d3f825e6" }, "ratings" : [], "business_id" : "ae5tm46-ewAhUJ6HR4fXFA", "average_stars" : 4 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d3f825e7" }, "ratings" : [ [ "SIP1Dfwy1M0HWzdgGg9H9g", 2 ] ], "business_id" : "aysngmx-Tqb7Lpyx9f6yPw", "average_stars" : -1 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d3f825e8" }, "ratings" : [ [ "7AtVjcNSqfqFOKuYWjTX0w", 3 ] ], "business_id" : "bCXtHSr8a7tnk2DwsodgyQ", "average_stars" : -1 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d3f825e9" }, "ratings" : [], "business_id" : "cHf-cu8bmM3gcvONo6B3JA", "average_stars" : 3.5 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d3f825ea" }, "ratings" : [], "business_id" : "cWC1aSv6ql0nBzHX_0a6MQ", "average_stars" : 3.5 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d3f825eb" }, "ratings" : [], "business_id" : "c_yxtSZNaxXAekgAPNW0Cg", "average_stars" : 4.5 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d3f825ec" }, "ratings" : [ [ "w8_PFQ72PYxYc8ZF53aPJA", 4 ] ], "business_id" : "ce0OlLhdpoxyMQE03Q98lQ", "average_stars" : -1 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d3f825ed" }, "ratings" : [], "business_id" : "cgoq8ACyJrSG1OBWcsKEUA", "average_stars" : 4 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d3f825ee" }, "ratings" : [], "business_id" : "ch1ercqwoNLpQLxpTb90KQ", "average_stars" : 4 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d3f825ef" }, "ratings" : [], "business_id" : "cmTtaP3LeApvz61W94Lvhg", "average_stars" : 5 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d3f825f0" }, "ratings" : [], "business_id" : "cvvFEEEkZNyDbNy8UB6esw", "average_stars" : 3 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d3f825f1" }, "ratings" : [], "business_id" : "dP-icsN34lMu6zo9A--1SA", "average_stars" : 4.5 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d3f825f2" }, "ratings" : [], "business_id" : "dPIsxsqE22IZ-R43NalT0g", "average_stars" : 4.5 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d3f825f3" }, "ratings" : [], "business_id" : "dlN9tXw24o4gcREvSGNkgQ", "average_stars" : 3 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d3f825f4" }, "ratings" : [], "business_id" : "dpqv-Gy6RLXXGnNrGZjOYw", "average_stars" : 4.5 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d3f825f5" }, "ratings" : [], "business_id" : "ePpchMyJFt9F-oKEHh1WXg", "average_stars" : 4 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d3f825f6" }, "ratings" : [ [ "jdpo2uoe1fvKaFswC_PdYw", 2 ] ], "business_id" : "eZ6dhl4xB9xJOzfB62ChKw", "average_stars" : -1 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d3f825f7" }, "ratings" : [ [ "g22NFB_H52wLvOZsqYnEfg", 5 ] ], "business_id" : "eZE0FdYB9rUvbuPS4fNyYA", "average_stars" : -1 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d3f825f8" }, "ratings" : [ [ "4hAauH0dy57uK9o8bCvGUw", 4 ] ], "business_id" : "ehaoreB8IzKY8KvRGqxcUA", "average_stars" : -1 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d3f825f9" }, "ratings" : [ [ "BokQtGtp4pGFZq0VuHIofQ", 1 ] ], "business_id" : "eqFRLwj2_0v_1y2y8Ur3cg", "average_stars" : -1 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d3f825fa" }, "ratings" : [ [ "kORGcgi0Iw2RG8gJl84MVA", 5 ] ], "business_id" : "fG-UbYw0DkImsirfAd7hLg", "average_stars" : -1 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d3f825fb" }, "ratings" : [], "business_id" : "fRYyVkbsiUntbUTCItwVeA", "average_stars" : 4 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d3f825fc" }, "ratings" : [ [ "Hjpn4meBXbjJHd8bkG4fSA", 3 ] ], "business_id" : "fcdjnsgO8Z5LthXUx3y-lA", "average_stars" : -1 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d3f825fd" }, "ratings" : [], "business_id" : "gCaIfAJ93W6fvmKuasF6Xw", "average_stars" : 3.5 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d3f825fe" }, "ratings" : [ [ "1P9BpFZ_d3PGCdytDTYJCw", 5 ] ], "business_id" : "gHWuPrcFbjlf0R0LO-SqXA", "average_stars" : -1 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d3f825ff" }, "ratings" : [ [ "-Isht50DcUo1iNeI2vAOwA", 1 ] ], "business_id" : "gIA1JWri0CQlN3QO4jtzaA", "average_stars" : -1 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d3f82600" }, "ratings" : [], "business_id" : "gWKUg9L0cWkGRsa1ztN72A", "average_stars" : 4.5 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d3f82601" }, "ratings" : null }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d3f82602" }, "ratings" : [], "business_id" : "gclB3ED6uk6viWlolSb_uA", "average_stars" : 2 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d3f82603" }, "ratings" : [], "business_id" : "h2YIIoZC9uYmgpn4vT7Zng", "average_stars" : 4.5 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d3f82604" }, "ratings" : [], "business_id" : "h4IRxYZVDRheLduKfnMDkA", "average_stars" : 4.5 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d3f82605" }, "ratings" : [], "business_id" : "hGbtJYVdJ-EYSgXdGvps6g", "average_stars" : 3.5 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d3f82606" }, "ratings" : [ [ "vYNmPJIfn1HhrCxGC62MDQ", 2 ] ], "business_id" : "hTp23z3Q5PCvuGvKTIQtXw", "average_stars" : -1 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d3f82607" }, "ratings" : [], "business_id" : "hZUAk5fthL27KwuKicliMQ", "average_stars" : 4.5 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d3f82608" }, "ratings" : [ [ "AWguR51NrRqoXMJht6JIgg", 5 ] ], "business_id" : "hzSyQBWeoX94WOpUtxuWVg", "average_stars" : -1 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d3f82609" }, "ratings" : [], "business_id" : "iD6RCiqdOsjGGaQKG356zA", "average_stars" : 3 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d3f8260a" }, "ratings" : [], "business_id" : "iH5a2hXZ0BonJS31n_TwNw", "average_stars" : 1.5 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d3f8260b" }, "ratings" : [], "business_id" : "iT581VVVGgpik06KplZOuQ", "average_stars" : 4 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d3f8260c" }, "ratings" : [], "business_id" : "ipTk8GbPjycGDqGgUZrl9w", "average_stars" : 3.5 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d3f8260d" }, "ratings" : [ [ "rsulpV9Kg8FhYnzkirKAiw", 4 ] ], "business_id" : "j0lgvR3AAG1FL6qj9AmWEg", "average_stars" : -1 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d3f8260e" }, "ratings" : [ [ "LGvyCjSSiZnTzwGfvsc3uw", 1 ] ], "business_id" : "j4PVNCpxS_U9rw0yn-Tiwg", "average_stars" : -1 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d3f8260f" }, "ratings" : [], "business_id" : "jFCPJfX3qzfsNaQIyi7-ig", "average_stars" : 5 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d3f82610" }, "ratings" : [ [ "jzk8cwQ0Wnm-gql4Its13w", 5 ] ], "business_id" : "jGuzp8hsKy27ZmK1jsvgYw", "average_stars" : -1 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d3f82611" }, "ratings" : [ [ "URHf5mueYVR0vGuVPr1oUQ", 3 ] ], "business_id" : "jI4yOYZ7nZt1Yv_9GolxYg", "average_stars" : -1 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d3f82612" }, "ratings" : [ [ "qcyJ-DuODYIOY7w1O6Catg", 4 ] ], "business_id" : "jIoHLOlgnJeMvw5pemNoAg", "average_stars" : -1 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d3f82613" }, "ratings" : null }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d3f82614" }, "ratings" : [], "business_id" : "jfZXp0POls-M2cgSxsS8fw", "average_stars" : 2.5 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d3f82615" }, "ratings" : [ [ "KBa1LY2_k8AbEa-Be_4XUQ", 4 ] ], "business_id" : "jm0Smx_0_T_VZ1QJQAg7WQ", "average_stars" : -1 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d3f82616" }, "ratings" : [ [ "Lu21F9b5Z7jjLIrM1YsZNA", 2 ] ], "business_id" : "joP8geCs-JMQr2tmM_f1sw", "average_stars" : -1 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d3f82617" }, "ratings" : [], "business_id" : "jwPmerwJxt53xOv6UdsSvA", "average_stars" : 1 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d3f82618" }, "ratings" : [ [ "dF9DauP27z5pZRns-AGcPw", 4 ] ], "business_id" : "jxAJrIQ2JjjTs8ZzEytP-w", "average_stars" : -1 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d3f82619" }, "ratings" : [], "business_id" : "jztBVgN-TAXhUKczMdB9zA", "average_stars" : 4.5 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d3f8261a" }, "ratings" : [], "business_id" : "kKFUNcLklJ54zZNUk-7yjQ", "average_stars" : 3 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d3f8261b" }, "ratings" : [], "business_id" : "kXC-xNb0P3kq7GOaGrazKw", "average_stars" : 4.5 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d3f8261c" }, "ratings" : [ [ "n_zEixNdHIh9bwEfjXWykg", 4 ] ], "business_id" : "kYD1PIXBsyZQXG_AEJB7ew", "average_stars" : -1 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d3f8261d" }, "ratings" : [], "business_id" : "kg55k4eCSpTH5uoIOjNPtQ", "average_stars" : 4.5 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d3f8261e" }, "ratings" : [ [ "91UMk2-XHD3LhnMjtmFhWA", 1 ] ], "business_id" : "kgHX64s-xqZCUs3Vsc647w", "average_stars" : -1 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d3f8261f" }, "ratings" : [], "business_id" : "khdkBG4SetzbtvkGZpyGTQ", "average_stars" : 3 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d3f82620" }, "ratings" : [], "business_id" : "lQENQYvnL7JOpvfMogDA_Q", "average_stars" : 3 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d3f82621" }, "ratings" : [], "business_id" : "lauGgBNIedEApT-gsNbLAA", "average_stars" : 5 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d3f82622" }, "ratings" : [], "business_id" : "lb9qELwduFgBo408x2VKOA", "average_stars" : 4 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d3f82623" }, "ratings" : [], "business_id" : "lnpg_iEDbPT2ZOeBhjneow", "average_stars" : 3.5 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d3f82624" }, "ratings" : [], "business_id" : "lsjRpOCkNvgduR8-YAUJJQ", "average_stars" : 4.5 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d3f82625" }, "ratings" : [ [ "JsQ6e1QEaD2jDmZcUj4fAQ", 3 ] ], "business_id" : "m6mUVUdkGuicmQHuqJH9yw", "average_stars" : -1 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d3f82626" }, "ratings" : [], "business_id" : "mStLDG6jwFG_0qeLUJKmZw", "average_stars" : 4 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d3f82627" }, "ratings" : [ [ "W63Nz1uL8QkExLCrksiabA", 3 ] ], "business_id" : "mdXLofB6aiAV7A1AH1WnQA", "average_stars" : -1 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d3f82628" }, "ratings" : [ [ "0oaw0k-sWd2LIkFakPTivQ", 4 ] ], "business_id" : "n4R-InyNzyaehbbgzTwYSQ", "average_stars" : -1 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d3f82629" }, "ratings" : [], "business_id" : "n9KSfii0GCOJOhDJLAXJ7Q", "average_stars" : 3.5 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d3f8262a" }, "ratings" : [ [ "eNUttpTjk6Q5TlSAYV-kMg", 5 ] ], "business_id" : "nCWZR9NRc2grAwP1jq33PA", "average_stars" : -1 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d3f8262b" }, "ratings" : [], "business_id" : "o2nvKsqafexXX2OHG6hKXg", "average_stars" : 5 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d3f8262c" }, "ratings" : [], "business_id" : "oB0ogXCEgNOv1qPdDXUtnQ", "average_stars" : 3 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d3f8262d" }, "ratings" : [], "business_id" : "oBN5nMW17Dgrubfehja5qA", "average_stars" : 1 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d3f8262e" }, "ratings" : [], "business_id" : "oEP8EQRxILT8svJmALwh6w", "average_stars" : 3 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d3f8262f" }, "ratings" : [], "business_id" : "oH0S5GrCTOv_btOQd0UrLA", "average_stars" : 4.5 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d3f82630" }, "ratings" : [ [ "jiIJblzURKNWvC82N8iSOw", 2 ] ], "business_id" : "oIgx5AEdeBnsibH7GJc2fg", "average_stars" : -1 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d3f82631" }, "ratings" : [], "business_id" : "oMWoEXLdPEn5HKyQR4-Ssg", "average_stars" : 4.5 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d3f82632" }, "ratings" : [], "business_id" : "oidBvZouxEal1NWe5ARrVw", "average_stars" : 3.5 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d3f82633" }, "ratings" : [ [ "PlAzzQuIK5bWTGz-s_jvTA", 5 ] ], "business_id" : "p-viS1wU1oL--7lTlbdeXQ", "average_stars" : -1 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d3f82634" }, "ratings" : [ [ "YZxZopC-X-fSONb3Dq2DUA", 4 ] ], "business_id" : "p2INus4Aq6_BlKK3pn_-sw", "average_stars" : -1 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d3f82635" }, "ratings" : [ [ "z3V87iIa40vHFI7KXwom3A", 4 ] ], "business_id" : "pSVSClbcdGWbpLTUtJuoRw", "average_stars" : -1 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d3f82636" }, "ratings" : [ [ "c4mkYDTjJc-_lOM32YaPPQ", 4 ] ], "business_id" : "pTTUqKB3TxaW43ElWl6aOQ", "average_stars" : -1 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d3f82637" }, "ratings" : null }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d3f82638" }, "ratings" : null }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d3f82639" }, "ratings" : [ [ "fSf8OF0WqdTtuqS3_GeZ2g", 4 ] ], "business_id" : "q27xEJjmTVLH4GywA1DmUg", "average_stars" : -1 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d3f8263a" }, "ratings" : [], "business_id" : "qIWIti6Putx8E2MZvrmNGQ", "average_stars" : 2 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d3f8263b" }, "ratings" : [], "business_id" : "qLSAFVz8MdF8GJ5UGtg_mg", "average_stars" : 3 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d3f8263c" }, "ratings" : [], "business_id" : "qTC7mSF4mdzUYRR9mdKTeQ", "average_stars" : 3.5 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d3f8263d" }, "ratings" : [ [ "Z_WAxc4RUpKp3y12BH1bEg", 4 ] ], "business_id" : "qw5gR8vW7mSOK4VROSwdMA", "average_stars" : -1 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d3f8263e" }, "ratings" : [], "business_id" : "qwy4ECNXVxTirx8zLTk8Jw", "average_stars" : 4.5 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d3f8263f" }, "ratings" : [ [ "Z07a2fKUXurkHxkUX0-eRQ", 1 ] ], "business_id" : "r-MdoGkMYp3Kt71E9MUiIA", "average_stars" : -1 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d3f82640" }, "ratings" : [ [ "5DPPi4wWoQL11xOjRtYWQA", 3 ] ], "business_id" : "r7Ggh7ejuBWjT0TQPW-ypA", "average_stars" : -1 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d3f82641" }, "ratings" : [], "business_id" : "rJHHMEHrnbsX6Y0CSi4Yxg", "average_stars" : 5 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d3f82642" }, "ratings" : [], "business_id" : "rJsSNcvbnpYTMYz5JXktOQ", "average_stars" : 4.5 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d3f82643" }, "ratings" : [ [ "hBicl52tMVsTecdZSVL-lQ", 3 ] ], "business_id" : "rKirSxY1-ScGEzQjfYSI2A", "average_stars" : -1 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d3f82644" }, "ratings" : [ [ "oCls9DEDz5JXYLOxM-57Dw", 3 ] ], "business_id" : "rPEBinN7NEn8uosusvBarg", "average_stars" : -1 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d3f82645" }, "ratings" : [ [ "klIMMg94GVbtNDE0tej8Bg", 3 ] ], "business_id" : "se_Kx22tdmaGldYSNwXlRg", "average_stars" : -1 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d3f82646" }, "ratings" : [], "business_id" : "sm15YgK4ubMLq11d2whkYQ", "average_stars" : 4 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d3f82647" }, "ratings" : [ [ "mO_wfV55ByaV5IuKHcI8BA", 5 ] ], "business_id" : "t6qBeLsoKOUmUwJCTFyjuQ", "average_stars" : -1 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d3f82648" }, "ratings" : [], "business_id" : "t8xAkCfZolJu3bvGk4C8_g", "average_stars" : 1 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d3f82649" }, "ratings" : [], "business_id" : "tUl7-7sFCX4Y_JJ9m3qbNA", "average_stars" : 3 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d3f8264a" }, "ratings" : [ [ "N8Iriob3n95cfybxXF19DA", 5 ] ], "business_id" : "tZT_0yAeFxuihVnGXoCbWQ", "average_stars" : -1 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d3f8264b" }, "ratings" : [ [ "oHs2ro7WBJl4pEVn2rnXng", 5 ] ], "business_id" : "tiQTQnIwoT92v6pRQH9SUQ", "average_stars" : -1 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d3f8264c" }, "ratings" : [], "business_id" : "tnwOUxWjrQeloEsdEzb53Q", "average_stars" : 4 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d3f8264d" }, "ratings" : [], "business_id" : "ui-X3rHtu8t6eVTEXx4bfg", "average_stars" : 4 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d3f8264e" }, "ratings" : [ [ "RjHriUuhAIZ_4HUSyouztg", 3 ] ], "business_id" : "vIAngjKzSoJHw3RSH4ZVtA", "average_stars" : -1 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d3f8264f" }, "ratings" : [], "business_id" : "vZi4rc_ToK_LVpsP3v0-yA", "average_stars" : 4.5 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d3f82650" }, "ratings" : [ [ "R7TORgWQQb2RIlWrc5WN8g", 4 ] ], "business_id" : "viiKRWphCo8u5LWEtzlCmg", "average_stars" : -1 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d3f82651" }, "ratings" : [ [ "5F_ASUSCHFf3YotkKioZ5w", 5 ] ], "business_id" : "vxtVFSa9_sFrUA4NYe4EJA", "average_stars" : -1 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d3f82652" }, "ratings" : [ [ "33kf1WtP9CaUjr9BwSLWiQ", 4 ] ], "business_id" : "wBMzAzT3haIsaA0JoDr1-Q", "average_stars" : -1 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d3f82653" }, "ratings" : [ [ "kT43SxDgMGzbeXpO51f0hQ", 5 ] ], "business_id" : "wbpbaWBfU54JbjLIDwERQA", "average_stars" : -1 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d3f82654" }, "ratings" : [], "business_id" : "wz3GFJrL92IqJWCE9v-BKA", "average_stars" : 4 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d3f82655" }, "ratings" : [], "business_id" : "x_HjoEGn6a1jo-soBQJf9Q", "average_stars" : 4.5 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d3f82656" }, "ratings" : [], "business_id" : "xbEoDp0TttnIl7BiNJWVUQ", "average_stars" : 3.5 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d3f82657" }, "ratings" : [], "business_id" : "xkX9SUlI27BDuliNOcuMbg", "average_stars" : 3.5 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d3f82658" }, "ratings" : [], "business_id" : "xk_sdpCQVikfiouEvXhxkQ", "average_stars" : 3 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d3f82659" }, "ratings" : [], "business_id" : "xwyJUcRY0hNlLY0PDqZhlA", "average_stars" : 3.5 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d3f8265a" }, "ratings" : [], "business_id" : "y-rxr2D4UEcWK0uRwKNLEg", "average_stars" : 4 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d3f8265b" }, "ratings" : [ [ "DApvbUmCpr3Nq6nnDQ3lMA", 4 ] ], "business_id" : "yKPRuBvD3ScCc18QrZ4Y6w", "average_stars" : -1 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d3f8265c" }, "ratings" : [], "business_id" : "yiR4dDit58T8pYg1GMvO3Q", "average_stars" : 3.5 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d3f8265d" }, "ratings" : [ [ "d9Xl0jlpY_XpmBoGwnqEGA", 5 ] ], "business_id" : "yr5PAGXB19P1cy9-QJ9IYA", "average_stars" : -1 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d3f8265e" }, "ratings" : [], "business_id" : "yuMPHKwfxWeaDjjNzSGESA", "average_stars" : 3 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d3f8265f" }, "ratings" : [], "business_id" : "yxjiPZIbWcIOSwOrc1_RSA", "average_stars" : 3.5 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d3f82660" }, "ratings" : [ [ "itXMelaTleEjLIFWCJtnwg", 4 ] ], "business_id" : "zD04ZpH32mTKK3kLC4t07Q", "average_stars" : -1 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d3f82661" }, "ratings" : [], "business_id" : "zRvrZaXYgZtFaA-ZR93pfA", "average_stars" : 2.5 }
+{ "_id" : { "$oid" : "518c3f6f41a302f1d3f82662" }, "ratings" : [ [ "zrHhzP4omVmB2yCFDzR00Q", 5 ] ], "business_id" : "zqvFNZq8q86V7QOcpURcSg", "average_stars" : -1 }
