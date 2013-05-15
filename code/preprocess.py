@@ -1,8 +1,10 @@
 from mrjob.job import MRJob
 from mrjob.protocol import JSONValueProtocol
 from pymongo import MongoClient
+
 import re
 import json
+import sys
 
 WORD_RE = re.compile(r"[\w']+")
 client = MongoClient()
@@ -11,15 +13,17 @@ users = db.allUsers
 
 total = set()
 
+
+
 class ProcessUser(MRJob):
     INPUT_PROTOCOL = JSONValueProtocol
-
     def extract_ratings(self, _, record):
         """Take in a record, pass rating info to reducer"""
         if record['type'] == 'review':
             yield [record['user_id'], (record['business_id'], record['stars'])]
         if record['type'] == 'user':
-            yield [record['user_id'], record['average_stars']]
+            # sys.stderr.write('user record!  \n')
+            yield [record['user_id'], (record['average_stars'], record['name'])]
 
             ##/
 
@@ -50,17 +54,27 @@ class ProcessUser(MRJob):
     def store_json(self, user_id, emit):
         rc = {'user_id': user_id, 'ratings': []}
         for value in emit:
-            if type(value) == float:
-                rc['average_stars'] = value
+            if type(value[0]) == float:
+                rc['average_stars'] = value[0]
+                rc['name'] = value[1]
             else:
                 rc['ratings'].append((value[0], float(value[1])))
         std = 0.0
+        if not 'average_stars' in rc.keys():
+            rc['average_stars'] = sum([x[1] for x in rc['ratings']])\
+                    /len(rc['ratings'])
         for t in rc['ratings']:
             std += (t[1] - rc['average_stars']) ** 2
-        std = std/len(rc['ratings'])
-        std = std**(1/2)
+        
+        if len(rc['ratings']) != 0:
+            std = std/len(rc['ratings'])
+        std = std**0.5
         rc['std'] = std
-        yield json.dumps(rc)
+        if len(rc['ratings']) > 5:
+            print json.dumps(rc)
+            # print 'good stuff!', user_id
+            # sys.stderr.write('good user! ' + str(len(rc['ratings'])) + ' \n')
+        # yield ('', json.dumps(rc))
 
 
     def steps(self):
