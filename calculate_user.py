@@ -52,7 +52,7 @@ class UserProcessor(MRJob):
     def steps(self):
         return [self.mr(self.map_user, self.reduce_user),
                 self.mr(reducer=self.processor)]
-                self.mr(reducer=self.outputer)]
+
 
 if __name__ == '__main__':
     UserProcessor.run()
