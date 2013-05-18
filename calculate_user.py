@@ -44,11 +44,15 @@ class UserProcessor(MRJob):
             if temp['is_similar']:
                 sim_count += 1
         rc['similarity'] = sim_count/count
+        if count < 5:
+            rc['similarity'] = rc['similarity'] * count/5.0
         print json.dumps(rc)
+
 
     def steps(self):
         return [self.mr(self.map_user, self.reduce_user),
                 self.mr(reducer=self.processor)]
+                self.mr(reducer=self.outputer)]
 
 if __name__ == '__main__':
     UserProcessor.run()
